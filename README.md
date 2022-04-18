@@ -1,19 +1,19 @@
 # Raspberry_Pi_Python_projects
 Raspberry Pi projects using pyhon libraries. 
 
-To explore more practical application of computer pragramming I wanted to learn how to operate various harwares using customized scripts (python/C/Perl/PHP). I am trying to
-learn/develop novel/DIY projects that involved Internet/Intranet network, hardware (LED/Buzzer/electronics), programming.
+To explore more practical application of computer pragramming I wanted to learn how to operate/interact various harwares using customized scripts (python/C/Perl/PHP). I am trying to
+learn/develop novel/DIY projects that involves Internet/Intranet network, hardwares (LED/Buzzer/electronic sensor modules) and programming.
 
-## Category of projects
- - web-Servers
- - Electronic circuits
- - automating manual operations
+## Scope of projects
+ - PWA apps with Web-Servers
+ - Logic operated Electronic circuits 
+ - Automating manual Operations
  - Bioinformatics
 
 ## Raspberry Pi model used:
  - Raspberry Pi-3B
- -
-
+	+ OS Kernel: Linux raspberrypi 5.15.32-v8+
+ - Remote access set-up see here.
 
 
 ## Future goals
