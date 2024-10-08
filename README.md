@@ -11,8 +11,9 @@ learn/develop novel/DIY projects that involves Internet/Intranet network, hardwa
  - Bioinformatics
 
 ## Raspberry Pi model used:
- - Raspberry Pi-3B
+ - Raspberry Pi 3B rev 1.2
 	+ OS Kernel: Linux raspberrypi 5.15.32-v8+
+	+ OS kernel: Linux raspberrypi 6.6.47+rpt-rpi-v8 
  - Remote access set-up see here.
 
 
